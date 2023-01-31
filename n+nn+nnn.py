@@ -1,5 +1,7 @@
-n = str(input("enter mingu:  "))
-m = int(input("enni sarlu: "))
+
+
+n = str(input("enter the number:  "))
+m = int(input("how mamy times: "))
 sum = str(n)
 tot = int(n)
 
